@@ -11,6 +11,11 @@ https://www.meetup.com/Autonomous-Artificial-Intelligence-in-Robotics/events/261
 If you would like to build your own autonomous robot I've put together and installation guide and code for implementing [ROS](http://www.ros.org) (Robot Operating System) on the low cost [Waveshare Alphabot2 for Raspberry Pi 3B+](https://www.waveshare.com/product/robotics/alphabot2/alphabot2-pi3-b-plus.htm) robot using the [Ubiquity Robotics ROS image for the Raspberry Pi](https://downloads.ubiquityrobotics.com/pi.html) here: [ROS_for_Waveshare_Alphabot2](https://github.com/ShaunPrice/ROS_for_Waveshare_Alphabot2)
 
 ## Contents
+### Fiducial SLAM with ROS ###
+Presentation on ROS SLAM (Simultanious Localization and Mapping) using Fiducial markers. Based on the Waveshare Alphabot2 robot running the [ROS installation](https://github.com/ShaunPrice/ROS_for_Waveshare_Alphabot2).
+
+  [Fiducial SLAM with ROS Presentation](Fiducial%20SLAM%20with%20ROS.pdf)
+
 ### Reinforcement Learning with AWS SageMaker and RoboMaker
 Presentation on how to use AWS SageMaker example to perform reinforcement learning on the AWS RoboMaker (ROS) environment.
 
